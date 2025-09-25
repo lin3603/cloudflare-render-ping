@@ -32,7 +32,7 @@ A production-ready Cloudflare Worker that automatically pings your Render applic
 
 ```powershell
 # Clone the repository
-git clone https://github.com/kavinthangavel/cloudflare-render-ping.git
+git clone https://github.com/bytetrix/cloudflare-render-ping.git
 
 cd cloudflare-render-ping
 
